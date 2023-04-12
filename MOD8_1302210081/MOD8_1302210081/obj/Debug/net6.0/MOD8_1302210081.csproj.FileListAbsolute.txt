@@ -1,0 +1,15 @@
+C:\Users\Hilmi Fauziyyah S\Documents\TP\KPL\Jurnal_MOD8_1302210081\MOD8_1302210081\MOD8_1302210081\bin\Debug\net6.0\MOD8_1302210081.exe
+C:\Users\Hilmi Fauziyyah S\Documents\TP\KPL\Jurnal_MOD8_1302210081\MOD8_1302210081\MOD8_1302210081\bin\Debug\net6.0\MOD8_1302210081.deps.json
+C:\Users\Hilmi Fauziyyah S\Documents\TP\KPL\Jurnal_MOD8_1302210081\MOD8_1302210081\MOD8_1302210081\bin\Debug\net6.0\MOD8_1302210081.runtimeconfig.json
+C:\Users\Hilmi Fauziyyah S\Documents\TP\KPL\Jurnal_MOD8_1302210081\MOD8_1302210081\MOD8_1302210081\bin\Debug\net6.0\MOD8_1302210081.dll
+C:\Users\Hilmi Fauziyyah S\Documents\TP\KPL\Jurnal_MOD8_1302210081\MOD8_1302210081\MOD8_1302210081\bin\Debug\net6.0\MOD8_1302210081.pdb
+C:\Users\Hilmi Fauziyyah S\Documents\TP\KPL\Jurnal_MOD8_1302210081\MOD8_1302210081\MOD8_1302210081\obj\Debug\net6.0\MOD8_1302210081.csproj.AssemblyReference.cache
+C:\Users\Hilmi Fauziyyah S\Documents\TP\KPL\Jurnal_MOD8_1302210081\MOD8_1302210081\MOD8_1302210081\obj\Debug\net6.0\MOD8_1302210081.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hilmi Fauziyyah S\Documents\TP\KPL\Jurnal_MOD8_1302210081\MOD8_1302210081\MOD8_1302210081\obj\Debug\net6.0\MOD8_1302210081.AssemblyInfoInputs.cache
+C:\Users\Hilmi Fauziyyah S\Documents\TP\KPL\Jurnal_MOD8_1302210081\MOD8_1302210081\MOD8_1302210081\obj\Debug\net6.0\MOD8_1302210081.AssemblyInfo.cs
+C:\Users\Hilmi Fauziyyah S\Documents\TP\KPL\Jurnal_MOD8_1302210081\MOD8_1302210081\MOD8_1302210081\obj\Debug\net6.0\MOD8_1302210081.csproj.CoreCompileInputs.cache
+C:\Users\Hilmi Fauziyyah S\Documents\TP\KPL\Jurnal_MOD8_1302210081\MOD8_1302210081\MOD8_1302210081\obj\Debug\net6.0\MOD8_1302210081.dll
+C:\Users\Hilmi Fauziyyah S\Documents\TP\KPL\Jurnal_MOD8_1302210081\MOD8_1302210081\MOD8_1302210081\obj\Debug\net6.0\refint\MOD8_1302210081.dll
+C:\Users\Hilmi Fauziyyah S\Documents\TP\KPL\Jurnal_MOD8_1302210081\MOD8_1302210081\MOD8_1302210081\obj\Debug\net6.0\MOD8_1302210081.pdb
+C:\Users\Hilmi Fauziyyah S\Documents\TP\KPL\Jurnal_MOD8_1302210081\MOD8_1302210081\MOD8_1302210081\obj\Debug\net6.0\MOD8_1302210081.genruntimeconfig.cache
+C:\Users\Hilmi Fauziyyah S\Documents\TP\KPL\Jurnal_MOD8_1302210081\MOD8_1302210081\MOD8_1302210081\obj\Debug\net6.0\ref\MOD8_1302210081.dll
